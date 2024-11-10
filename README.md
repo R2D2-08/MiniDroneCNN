@@ -57,5 +57,5 @@ Initially, the CNN’s output distribution was set to 8 labels. However, after e
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/R2D2-08/trained_parrot_minidrone.git
-   cd trained_parrot_minidrone
+   git clone https://github.com/R2D2-08/MiniDroneCNN.git
+   cd MiniDroneCNN
